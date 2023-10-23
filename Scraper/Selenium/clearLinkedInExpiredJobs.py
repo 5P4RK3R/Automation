@@ -18,7 +18,7 @@ signInBtn = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CLASS
 # signInBtn = driver.find_element(by=By.CLASS_NAME,value='sign-in-form__submit-button')
 # print(signInBtn)
 sessionKey.clear()
-sessionKey.send_keys('mahendransparker@gmail.com')
+sessionKey.send_keys('mahendragurunathan@gmail.com')
 sessionPassword.clear()
 sessionPassword.send_keys('gojuryu45')
 signInBtn.click()
