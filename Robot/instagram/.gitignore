@@ -16,3 +16,12 @@ testrun/*
 .~lock*
 *.pkl
 __pycache__
+postgres/
+__pycache__
+log.html
+output.xml
+report.html
+server.crt
+server.key
+*.log
+*.txt
